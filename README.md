@@ -1,5 +1,5 @@
 ## CobaltYT_dlp
-Simple Python program to download from Youtube (baed yt_dlp)
+Simple Python program to download from Youtube (yt_dlp based)
 
 ### Install
 Download&exctart .zip file from releases page.
